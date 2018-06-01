@@ -1,4 +1,4 @@
-1.添加CLASSPATH路径，在.zshrc文件（如果使用bash，对应.bashrc文件）中添加下面语句`export CLASSPATH=.:Target_PATH/Java/lib`。
+1.添加CLASSPATH路径，在.zshrc文件（如果使用bash，对应.bashrc文件）中添加下面语句`export CLASSPATH=.:Target_PATH/Java/lib`。其中`Target_PATH`为`git clone`该仓库的路径
 
 2.运行脚本 `./makeEx.sh name` ，生成name文件夹，然后在文件夹下生成name.java文件，并使用gedit打开。
 
