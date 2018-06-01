@@ -1,6 +1,6 @@
 作者：xyfancy
 
-wiki:https://github.com/JavaLearningbyCSE/thinkinginjava/wiki
+wiki:https://github.com/xyfancy/Java/wiki
 
 **1.code**
 
